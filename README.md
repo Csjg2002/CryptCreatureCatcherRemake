@@ -11,8 +11,11 @@ Explore an open dungeon filled with crypts and graveyards where ancient magic li
 </p>
 <p>
 ⚫ Explore an open, interconnected dungeon full of trecherous traps & fearsome foes.
+<p>
 ⚫ Find, catch & tame magical creatures. Choose your favourites and have them follow you, each offering unqiue buffs.
+<p>
 ⚫ Solve puzzles to open up new areas and reveal hidden secrets.
+<p>
 ⚫ Complete collectathon challenges and obtain various rewards to aid your quest.
 <br />
 
