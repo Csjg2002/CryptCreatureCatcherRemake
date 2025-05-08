@@ -1,6 +1,7 @@
 <h1>Crypt Creature Catcher (Remake Version)</h1>
 
 ### [Itch.Io Page](https://evernightstudios.itch.io/crypt-creature-catcher)
+### [GameJolt Page](https://gamejolt.com/games/cryptcreaturecatcher/918675)
 
 <h2>Description</h2>
 <p>
