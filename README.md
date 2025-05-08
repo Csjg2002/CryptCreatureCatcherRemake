@@ -23,5 +23,9 @@ I am the sole programmer on this project, working on it to maintain my developme
 <br />
 
 <h2>In-game Clips:</h2>
+<p>
+Coming Soon
 
 <h2>In-game Screenshots:</h2>
+<p>
+Coming Soon
