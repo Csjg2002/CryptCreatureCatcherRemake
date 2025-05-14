@@ -23,7 +23,7 @@ Explore an open dungeon filled with crypts and graveyards where ancient magic li
 I am the sole programmer on this project, working on it to maintain my development skills and learn new skills I wasn't so knowledgeable on previously, such as optimisation, and adding third-party intergration like Steam and Discord.
 </p>
 <p>
-This project has also sparked a big interest in level designing for me. The map for the game will be a big open dungeon. I have concepted up the map right now, but as we continue to finish up the tutorial I am really enjoying using subtle props in the environment to help guide the player toawrds their destination. Things like goblin footprints, destroyed walls, and caved in areas etc.
+This project has ignited a strong interest in level design for me. The game's map will feature a vast, open dungeon, which I have already concepted. As we continue to work on the tutorial, I’ve been thoroughly enjoying incorporating subtle environmental cues—like goblin footprints, collapsed walls, and caved-in areas—to guide players toward their destination.
 <br />
 
 <h2>In-game Clips:</h2>
