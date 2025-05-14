@@ -39,7 +39,7 @@ Coming Soon
 <img src="https://cdn.imgpile.com/f/fFOfi88_xl.png" height="80%" width="80%" alt="Crypt Creature Catcher"/>
 <br />
 <br />
-<img src="" height="80%" width="80%" alt="Crypt Creature Catcher"/>
+<img src="https://cdn.imgpile.com/f/GBccvaV_xl.png" height="80%" width="80%" alt="Crypt Creature Catcher"/>
 <br />
 <br />
  <img src="" height="80%" width="80%" alt="Crypt Creature Catcher"/>
