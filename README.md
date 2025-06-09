@@ -63,9 +63,6 @@ This project has also ignited a strong interest in level design for me. The game
 <img src="https://cdn.imgpile.com/f/X0b90Gr_xl.png" height="80%" width="80%" alt="Crypt Creature Catcher"/>
 <br />
 <br />
-<img src="https://cdn.imgpile.com/f/AJBwOJw_xl.png" height="80%" width="80%" alt="Crypt Creature Catcher"/>
-<br />
-<br />
  <img src="https://cdn.imgpile.com/f/WhPuQsS_xl.png" height="80%" width="80%" alt="Crypt Creature Catcher"/>
 <br />
 <br />
