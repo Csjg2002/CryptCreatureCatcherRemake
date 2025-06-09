@@ -46,7 +46,7 @@ This project has also ignited a strong interest in level design for me. The game
 <img src="https://github.com/user-attachments/assets/cd4bb854-1a43-44cb-8511-135cb755cb58" height="80%" width="80%" alt="Crypt Creature Catcher"/>
 <br />
 <br />
-<img src="" height="80%" width="80%" alt="Crypt Creature Catcher"/>
+<img src="https://github.com/user-attachments/assets/4500f21d-87d6-44c9-ad0f-e2e2d9e31e39" height="80%" width="80%" alt="Crypt Creature Catcher"/>
 <br />
 <br />
 <img src="https://github.com/user-attachments/assets/266f1b96-21eb-4bf2-9043-e84d9da5f5d7" height="80%" width="80%" alt="Crypt Creature Catcher"/>
