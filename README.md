@@ -2,6 +2,7 @@
 
 ### [Itch.Io Page](https://evernightstudios.itch.io/crypt-creature-catcher)
 ### [GameJolt Page](https://gamejolt.com/games/cryptcreaturecatcher/918675)
+### [YouTube Tutorial Section Showcase](https://www.youtube.com/watch?v=29YTxanAVpw&ab_channel=EvernightStudios)
 
 <h2>Description</h2>
 <p>
