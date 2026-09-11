@@ -1,4 +1,4 @@
-<h1>Crypt Creature Catcher (Remake Version)</h1>
+<h1>Crypts & Creatures</h1>
 
 ### [Itch.Io Page](https://evernightstudios.itch.io/crypt-creature-catcher)
 ### [GameJolt Page](https://gamejolt.com/games/cryptcreaturecatcher/918675)
@@ -9,16 +9,18 @@
 This game is currently in active development!
 </p>
 <p>
-Explore an open dungeon filled with crypts and graveyards where ancient magic lingers in this retro creature collector / dungeon crawler hybrid!
+Explore ancient crypts, gather hidden treasures & battle monstrous foes in this retro boomer slasher collectathon!
 </p>
 <p>
-⚫ Explore an open, interconnected dungeon full of trecherous traps & fearsome foes.
+⚫ Traverse compact, hand-crafted levels brimming with treacherous traps & fearsome foes.
 <p>
-⚫ Find, catch & tame magical creatures. Choose your favourites and have them follow you, each offering unqiue buffs.
+⚫ Solve puzzles to unveil secrets buried within a forgotten crypt.
 <p>
-⚫ Solve puzzles to open up new areas and reveal hidden secrets.
+⚫ Cleave and carve your way through masses of adversaries to reclaim the undead halls you own.
 <p>
-⚫ Complete collectathon challenges and obtain various rewards to aid your quest.
+⚫ Collect treasures, unlock hidden rewards & enhance your abilities as your journey unfolds.
+<p>
+⚫ Enjoy a retro aesthetic inspired by dark fantasy, yet flavoured with a cartoony, light-hearted & colourful twist.
 </p>
 <p>
 I am the sole programmer on this project, working on it to maintain my development skills and learn new skills I wasn't so knowledgeable on previously, such as optimisation, and adding third-party intergration like Steam and Discord.
